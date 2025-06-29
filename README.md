@@ -50,19 +50,7 @@ SBH_health_monitoring_system/
 
 ## Mobile Application Screenshots
 
-### Home Page
-<img src="images/Home_page.png" alt="Home Page" width="250"/>
-
-### History Tracking
-<img src="images/History_tracking.png" alt="History Tracking" width="250"/>
-
-### Nearby Hospital List
-<img src="images/Nearby_hostpital_list.png" alt="Nearby Hospital List" width="250"/>
-
-## Analytics Dashboard
-
-### Graph of History Data
-<img src="images/GraphOfHistoryData.png" alt="Graph of History Data" width="250"/>
+<img src="images/New Project.png" alt="Home Page" width="250"/>
 
 ## Technology Stack
 
